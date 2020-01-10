@@ -1,5 +1,5 @@
 # TLib
-TLib是一个C/C++库，包含了各种功能函数，从不同操作系统中C库的算法中做出的筛选。包括：   
+TLib是一个C/C++库，包含了各种优质的功能函数，从不同操作系统中C库的算法中做出的筛选。包括：   
     array，dictionary，hash，libpng，list，quicklz，regex，string，utility，win32cpu，win32file，win32filejournal，win32filesearch，
     win32gdi，win32gdip，win32image，win32mmap，win32sync，win32thread，win32timer ...。   
 ```
